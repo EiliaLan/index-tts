@@ -25,6 +25,6 @@ sentencepiece
 gradio
 tqdm
 textstat
-
+pynini==2.1.6 
 WeTextProcessing; platform_machine != "Darwin"
 wetext; platform_system == "Darwin"
